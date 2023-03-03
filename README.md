@@ -8,5 +8,4 @@ This project is a website showcasing my my country, its culture, heritage, natur
 ## 💻 Technologies Used:
 - HTML
 - CSS
-- JavaScript
 - Bootstrap

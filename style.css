@@ -24,6 +24,7 @@ html body {
   color: antiquewhite;
   padding: 20px;
   text-shadow: 1px 1px 4px rgb(0, 0, 0);
+  width: 100%;
 }
 
 .navbar-toggler-icon {
@@ -37,6 +38,7 @@ html body {
 
 .imgText {
   font-family: "Montserrat";
+  text-align: justify;
 }
 .imgText > img {
   height: 100px;
@@ -72,7 +74,7 @@ html body {
   max-width: 30%;
 }
 
-.panel h2 {
+.heading {
   font-size: 2em;
   font-family: "Playfair Display", serif;
   background: -webkit-linear-gradient(45deg, red, black);
@@ -81,7 +83,7 @@ html body {
   background-position: bottom left;
   transition: background-size 0.4s ease-out;
 }
-.panel h2:hover {
+.heading:hover {
   background-size: 100% 2.5px;
 }
 
